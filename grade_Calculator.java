@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class grade_Calculator {
+public class Grade_Calculator {
     public static void main(String args[]) {
         Scanner input = new Scanner(System.in);
         System.out.print("Enter First Subject Marks: ");
